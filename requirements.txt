@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+python-multipart
+pydantic
+pyyaml
+python-dotenv
+numpy
+pandas
+scikit-learn
+faiss-cpu
+sentence-transformers
+langchain
+langchain-community
+pymupdf
+python-docx
+openai

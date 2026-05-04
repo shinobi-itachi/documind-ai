@@ -1,0 +1,25 @@
+project_name: "DocuMind AI"
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  vectorstore_dir: "data/embeddings/faiss_index"
+
+chunking:
+  chunk_size: 500
+  chunk_overlap: 100
+
+retrieval:
+  top_k: 5
+  fetch_k: 10
+  lambda_mult: 0.7
+
+embedding:
+  model_name: "sentence-transformers/all-MiniLM-L6-v2"
+
+llm:
+  temperature: 0.2
+
+confidence:
+  high_threshold: 0.75
+  medium_threshold: 0.55
