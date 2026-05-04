@@ -4,7 +4,7 @@ DocuMind AI is an end-to-end Retrieval-Augmented Generation (RAG) system that en
 
 It combines semantic search, intelligent retrieval, and LLM-based generation to deliver accurate, context-aware answers with source attribution and confidence scoring.
 
-🌐 **Live API**: https://documind-ai-uctb.onrender.com/docs
+🌐 **Live Link**: http://192.168.1.10:8501
 
 ---
 
